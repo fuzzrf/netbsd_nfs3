@@ -82,7 +82,7 @@ nfsrv_remove(struct nfsrv_descript *nfsd, struct nfssvc_sock *slp, struct lwp *l
 
 How to verify:
 1. setup nfs/mountd
-2. run t1.py
+2. run t2.py
 
 
 
